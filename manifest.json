@@ -7,9 +7,6 @@
         "scripting",
         "activeTab"
     ],
-    "host_permissions": [
-        "https://*.linkedin.com/*"
-    ],
     "web_accessible_resources": [
         {
             "resources": [
