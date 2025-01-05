@@ -1,6 +1,6 @@
-# Chrome Developer Tool (Dev Tool 2.0)
+# Chrome AI Detector 1.0
 
-This is the official chrome extension for developer test tools.
+This is the official chrome extension for AI Detection.
 
 # How to Setup
 
