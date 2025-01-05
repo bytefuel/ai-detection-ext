@@ -4,7 +4,6 @@
     "version": "0.0.3",
     "description": "AI text detection for Social platforms",
     "permissions": [
-        "scripting",
         "activeTab"
     ],
     "web_accessible_resources": [
